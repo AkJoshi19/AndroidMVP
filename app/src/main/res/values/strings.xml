@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidMvp</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="signup_lbl">Provide SignUp Information</string>
+    <string name="user_email">User Email</string>
+    <string name="conf_password">Confirm Password</string>
+    <string name="user_mobile">Contact No</string>
+    <string name="main_lbl">User Info</string>
+</resources>
