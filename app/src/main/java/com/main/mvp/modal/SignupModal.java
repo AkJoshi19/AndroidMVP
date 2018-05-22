@@ -16,39 +16,39 @@ public class SignupModal {
         return mUserName;
     }
 
-    public void setUserName(String mUserName) {
-        this.mUserName = mUserName;
+    public void setUserName(String userName) {
+        this.mUserName = userName;
     }
 
     public String getUserEmail() {
         return mUserEmail;
     }
 
-    public void setUserEmail(String mUserEmail) {
-        this.mUserEmail = mUserEmail;
+    public void setUserEmail(String userEmail) {
+        this.mUserEmail = userEmail;
     }
 
     public String getPassword() {
         return mPassword;
     }
 
-    public void setPassword(String mPassword) {
-        this.mPassword = mPassword;
+    public void setPassword(String password) {
+        this.mPassword = password;
     }
 
     public String getPasswordConf() {
         return mPasswordConf;
     }
 
-    public void setPasswordConf(String mPasswordConf) {
-        this.mPasswordConf = mPasswordConf;
+    public void setPasswordConf(String passwordConf) {
+        this.mPasswordConf = passwordConf;
     }
 
     public String getContactNo() {
         return mContactNo;
     }
 
-    public void setContactNo(String mContactNo) {
-        this.mContactNo = mContactNo;
+    public void setContactNo(String contactNo) {
+        this.mContactNo = contactNo;
     }
 }
